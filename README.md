@@ -2,4 +2,4 @@
 
 GitHub Pages URL:
 
-https://atikur01.github.io/ay-bay-policy/
+https://atikur01.github.io/ay-bay-policy/adsconfig.json

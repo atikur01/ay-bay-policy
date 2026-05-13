@@ -1,6 +1,3 @@
 {
-  // Interstitial Ads
-  // true  = ON
-  // false = OFF
   "interstitialAds": true
 }
